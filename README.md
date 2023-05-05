@@ -1,4 +1,4 @@
-Tic tac toe game developed using baisc html css and javascript.
+Tic tac toe game developed using baisc html css and javascript
 
 
 ![Screenshot (318)](https://user-images.githubusercontent.com/109866847/236365494-8f0a4264-3b86-47c9-b4f9-81b8056a6f72.png)
