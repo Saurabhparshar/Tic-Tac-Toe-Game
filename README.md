@@ -1,3 +1,6 @@
+# TIC TAC TOE Game
+
+
 Tic tac toe game developed using baisc html css and javascript
 
 ## Screenshot of how the project looks
